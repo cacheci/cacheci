@@ -2,6 +2,8 @@
 
 I am CacheCi. Recently start to learn programming.
 
+Not a programmer. Learning programming as an informal hobby.
+
 If I create a confusing repo, don't be surprised.
 
 
@@ -13,6 +15,8 @@ If I create a confusing repo, don't be surprised.
 
 ## Email
 locate@cacheci.com
+
+[CacheCi on Telegram](https://cacheci.t.me/)
 
 ## Languages I can read
 
