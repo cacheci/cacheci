@@ -21,8 +21,6 @@ locate@cacheci.com
 
 - ShellScript
 - Javascript
-- ~~HTML~~ (Not a Language!)
 - VisualBasic
 - C
 - Python
-- ~~Java~~ (Many years ago)
