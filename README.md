@@ -2,10 +2,9 @@
 
 I am CacheCi. Recently start to learn programming.
 
+Completely vibe-coder.
+
 Not a programmer. Learning programming as an informal hobby.
-
-If I create a confusing repo, don't be surprised.
-
 
 
 ## Github Stats
